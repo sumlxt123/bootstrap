@@ -1,0 +1,80 @@
+/******************公共区域*****************************/
+
+/**/
+body{
+    font-family: "Microsoft YaHei UI Light";
+}
+
+/*小图标效果*/
+.span-ico {
+    background: #0d87e9;
+    color: #ffffff;
+    border-radius: 50%; /*圆角效果*/
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+
+
+
+
+/******************进度条***************************/
+.progress {
+    margin-bottom: 15px;
+}
+
+
+/*头像专用*/
+.wh64 {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+/*按钮边距*/
+.mar_t15 {
+    margin-top: 15px;
+}
+
+.pad0 {
+    padding: 0;
+}
+
+/*page-header*/
+.page-header {
+    margin-top: 0;
+}
+
+/*page-header h1*/
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+
+/*用户查找功能*/
+.user_search {
+    padding: 10px;
+    border: solid 1px #ddd;
+    border-top: none;
+}
+
+
+
+/*标签*/
+.taglist {
+     padding-top: 15px;
+
+}
+
+.taglist .alert {
+    margin: 0 15px 15px 0;
+}
+
+/***********************footer*****************/
+footer {
+    font-weight: 400;
+    text-align: center;
+    margin: 20px;
+}
